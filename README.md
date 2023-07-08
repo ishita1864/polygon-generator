@@ -1,6 +1,4 @@
-# polygon-ccbd
-
-Polygon Generator
+# Polygon Generator
 
 # Problem Statement
 
@@ -8,7 +6,7 @@ Polygons of varying complexity are used to represent spatial objects like water 
 are irregular, the polygons that represent them can have large number of vertices. Below map of Bengaluru shows the boundaries for Parks, water
 bodies, districts in Bengaluru.
 
-![Screenshot 2023-07-07 at 6 24 02 PM](https://github.com/ishita1864/polygon-ccbd/assets/62196026/91349f38-f59a-49c3-ad74-f3a1bd0de9d0)
+![Screenshot 2023-07-08 at 10 48 01 AM](https://github.com/ishita1864/polygon-generator/assets/62196026/c3f00876-7131-4180-85cc-5fb4854670fd)
 
 The Polygon can be represented as a Well Known Text (WKT) Object.
 
@@ -26,24 +24,19 @@ land/agriculture. Can any of these variations be integrated into your solution?
 
 #  Solution
 
-![Screenshot 2023-07-07 at 7 12 57 PM](https://github.com/ishita1864/polygon-ccbd/assets/62196026/c8d2edcf-e638-4c4b-9079-b38346b4941a)
+![Screenshot 2023-07-08 at 4 39 38 PM](https://github.com/ishita1864/polygon-generator/assets/62196026/beb36af1-f7cb-4201-aa35-533ec87232bd)
 
-![Screenshot 2023-07-07 at 7 13 12 PM](https://github.com/ishita1864/polygon-ccbd/assets/62196026/af118c1f-bdb7-432d-9450-0ec9b114e06a)
+![Screenshot 2023-07-08 at 4 39 56 PM](https://github.com/ishita1864/polygon-generator/assets/62196026/d8b0f1d2-e847-4040-af29-cef17abe0d5a)
 
-![Screenshot 2023-07-07 at 7 13 29 PM](https://github.com/ishita1864/polygon-ccbd/assets/62196026/8c3637a0-ba95-400c-99f1-708098ba6b8f)
+![Screenshot 2023-07-08 at 4 40 16 PM](https://github.com/ishita1864/polygon-generator/assets/62196026/c94fd211-55b0-4633-a09a-ef548364d5b9)
 
-![Screenshot 2023-07-07 at 7 13 43 PM](https://github.com/ishita1864/polygon-ccbd/assets/62196026/77dc37a9-2b7c-490f-9fef-8fc3dc587262)
+![Screenshot 2023-07-08 at 4 40 28 PM](https://github.com/ishita1864/polygon-generator/assets/62196026/850cf971-fa5f-4619-92c1-36690b1610c5)
 
-![Screenshot 2023-07-07 at 7 14 04 PM](https://github.com/ishita1864/polygon-ccbd/assets/62196026/aba4bb65-a57e-401a-971a-7251a95d348a)
+![Screenshot 2023-07-08 at 4 40 49 PM](https://github.com/ishita1864/polygon-generator/assets/62196026/39c68cda-2ca3-4842-b3d4-320ef18efd9a)
 
 # Additional Question Solution
+![Screenshot 2023-07-08 at 4 41 09 PM](https://github.com/ishita1864/polygon-generator/assets/62196026/f6d07a7c-c126-48ba-9c53-e5edb3097c70)
 
-![Screenshot 2023-07-07 at 7 14 48 PM](https://github.com/ishita1864/polygon-ccbd/assets/62196026/a7e99869-d88b-4307-9487-6c7352d7745d)
+![Screenshot 2023-07-08 at 4 41 24 PM](https://github.com/ishita1864/polygon-generator/assets/62196026/0c3e9866-1153-4876-ad76-b7194cd57f0e)
 
-
-![Screenshot 2023-07-07 at 7 15 08 PM](https://github.com/ishita1864/polygon-ccbd/assets/62196026/1d7f9653-708b-44e6-8b37-d42331bbb2d6)
-
-![Screenshot 2023-07-07 at 7 15 23 PM](https://github.com/ishita1864/polygon-ccbd/assets/62196026/89e2f84a-6d6a-4334-9004-eb5fcf537b03)
-
-
-
+![Screenshot 2023-07-08 at 4 41 36 PM](https://github.com/ishita1864/polygon-generator/assets/62196026/7cb1f41d-4b5f-42a6-a8e6-7ceed1e89ad2)
